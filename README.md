@@ -1,4 +1,4 @@
-My PROJECT
+
 <!DOCTYPE html>
 <html>
 <head>
